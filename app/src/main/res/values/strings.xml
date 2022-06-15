@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrueCallerContentFinder</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="fetchContent">Fetch Content</string>
+    <string name="no_internet_message">No internet. Please connect to the internet and Retry!</string>
+    <string name="first_char">First char is:  %1$s</string>
+    <string name="every_tenth_char">Every tenth char: %1$s</string>
+    <string name="word_count">Word count: %1$s</string>
+</resources>
